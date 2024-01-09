@@ -9,6 +9,7 @@ Add 'job_application' to the  INSTALLED_APPS [] block in the "mysite/settings.py
 ```commandline
 python manage.py runserver
 ```
+## Setup the database 
 
 Enter models on job_application/models.py
 
@@ -16,6 +17,11 @@ Enter models on job_application/models.py
  python manage.py makemigrations
  python manage.py migrate
 ```
+
+create class in job_application/views.py
+
+create html file in job_application/templates/index.html
+create urls file in job_application/urls.py
 
 
 
