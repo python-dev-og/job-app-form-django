@@ -22,6 +22,7 @@ create class in job_application/views.py
 
 create html file in job_application/templates/index.html
 create urls file in job_application/urls.py
+create class file in job_application/forms.py
 
 
 
