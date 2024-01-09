@@ -24,5 +24,10 @@ create html file in job_application/templates/index.html
 create urls file in job_application/urls.py
 create class file in job_application/forms.py
 
+## Create a user for the admin page
+```commandline
+python manage.py createsuperuser
+```
+follow the prompt 
 
 
